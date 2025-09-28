@@ -1,0 +1,24 @@
+[
+  {
+    "id": 7,
+    "name": "Personal Training",
+    "price": 40,
+    "description": "One-on-one coaching session.",
+    "features": ["Custom workout plan", "Trainer guidance"]
+  },
+  {
+    "id": 8,
+    "name": "Group Classes",
+    "popular": true,
+    "price": 50,
+    "description": "Unlimited access to group classes per month.",
+    "features": ["Yoga", "HIIT", "Zumba", "Spin classes"]
+  },
+  {
+    "id": 9,
+    "name": "Swimming Pool Access",
+    "price": 25,
+    "description": "Add pool access to your membership.",
+    "features": ["Full pool access", "Locker & shower"]
+  }
+]
